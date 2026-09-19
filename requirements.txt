@@ -1,0 +1,12 @@
+transformers[torch]
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+umap-learn
+plotly
+tqdm

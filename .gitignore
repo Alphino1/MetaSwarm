@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Experiment outputs (root-level artifacts and checkpoint dirs written by the scripts)
+/convergence_plot.png
+/Confusion_Matrix_EACL.png
+/Final_Confusion_Matrix.png
+/assets/generated/
+/Fold_*/
+/medical_abjad_results/
+/ACL_Project_Final/
+/ACL_Final_Submission/
+
+# Submissions
+submit_preds.csv
+SUBMISSION.csv
+RANKED_SUBMISSION.csv
+ENSEMBLE_FINAL.csv
+
+# Data (distributed by the shared task organizers, not this repo)
+*.csv
+
+# Environments
+.venv/
+venv/
+.idea/
+.vscode/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (never commit)
+.netrc
+.env
+
+# Tooling hook state
+/.mimosa/
