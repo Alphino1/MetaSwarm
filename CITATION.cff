@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "MetaSwarm at AbjadMed: Focal, Class-Balanced Optimization for Diglossic Medical Text in Abjad Scripts"
+authors:
+  - family-names: Jaisy
+    given-names: Rahul
+doi: 10.18653/v1/2026.abjadnlp-1.21
+version: v1.0.0
+date-released: "2026-09-19"
+url: "https://aclanthology.org/2026.abjadnlp-1.21/"
+license: MIT
+keywords:
+  - Arabic NLP
+  - long-tailed classification
+  - focal loss
+  - medical text
+  - Abjad scripts
