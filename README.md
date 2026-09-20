@@ -1,4 +1,4 @@
-# [AbjadNLP 2026 @ EACL 2026] MetaSwarm at AbjadMed: Focal, Class-Balanced Optimization for Diglossic Medical Text in Abjad Scripts
+# [AbjadNLP 2026 @ EACL 2026] MetaSwarm at AbjadMed: Forensic Optimization and Class-Balanced Discovery for Medical Diglossia in Abjad Scripts
 
 ![Conference](https://img.shields.io/badge/AbjadNLP_2026-EACL_2026-5A7FBF)
 ![DOI](https://img.shields.io/badge/DOI-10.18653%2Fv1%2F2026.abjadnlp--1.21-blue)
