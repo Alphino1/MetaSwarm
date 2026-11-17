@@ -41,7 +41,6 @@ The Hugging Face [Space](https://huggingface.co/spaces/Alphatin/MetaSwarm) mirro
 
 ## News
 
-- **[2026.11.16]** Artifact page released on Hugging Face: [Space](https://huggingface.co/spaces/Alphatin/MetaSwarm) and [files](https://huggingface.co/spaces/Alphatin/MetaSwarm/tree/main), mirroring the paper, poster, slides, `CITATION.cff` and this code tree.
 - **[2026.09.19]** Code released: the five-stage development pipeline and the submitted five-fold ensemble.
 - **[2026.03]** Paper published in the Proceedings of the 2nd Workshop on NLP for Languages Using Arabic Script (AbjadNLP 2026), Rabat, Morocco, co-located with EACL 2026 (pages 144-148).
 
