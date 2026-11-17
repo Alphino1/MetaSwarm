@@ -4,6 +4,7 @@
 ![DOI](https://img.shields.io/badge/DOI-10.18653%2Fv1%2F2026.abjadnlp--1.21-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB)
+[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MetaSwarm-yellow)](https://huggingface.co/spaces/Alphatin/MetaSwarm)
 
 Official code release for the AbjadNLP 2026 paper (co-located with EACL 2026).
 
@@ -19,7 +20,9 @@ This repository follows the **updated author version**, which is not separately 
 
 ## Links
 
-📄 &nbsp;[Published version (ACL Anthology)](https://aclanthology.org/2026.abjadnlp-1.21/) &nbsp;|&nbsp; 🌐 &nbsp;[Project page](https://metaswarm-eacl-project.pages.dev) &nbsp;|&nbsp; 📄 &nbsp;[Paper, updated author version (PDF)](https://metaswarm-eacl-project.pages.dev/papers/metaswarm-author-version.pdf) &nbsp;|&nbsp; 🎞️ &nbsp;[Poster (PDF)](https://metaswarm-eacl-project.pages.dev/papers/metaswarm-eacl-poster.pdf) &nbsp;|&nbsp; 📊 &nbsp;[Slides (PPTX)](https://metaswarm-eacl-project.pages.dev/papers/metaswarm-slides.pptx)
+📄 &nbsp;[Published version (ACL Anthology)](https://aclanthology.org/2026.abjadnlp-1.21/) &nbsp;|&nbsp; 🤗 &nbsp;[Artifact page on Hugging Face](https://huggingface.co/spaces/Alphatin/MetaSwarm) &nbsp;|&nbsp; 🌐 &nbsp;[Project page](https://metaswarm-eacl-project.pages.dev) &nbsp;|&nbsp; 📄 &nbsp;[Paper, updated author version (PDF)](https://metaswarm-eacl-project.pages.dev/papers/metaswarm-author-version.pdf) &nbsp;|&nbsp; 🎞️ &nbsp;[Poster (PDF)](https://metaswarm-eacl-project.pages.dev/papers/metaswarm-eacl-poster.pdf) &nbsp;|&nbsp; 📊 &nbsp;[Slides (PPTX)](https://metaswarm-eacl-project.pages.dev/papers/metaswarm-slides.pptx)
+
+The Hugging Face [Space](https://huggingface.co/spaces/Alphatin/MetaSwarm) mirrors the paper, poster, slides, `CITATION.cff` and this code tree, so the artifacts stay reachable even if this repository moves. Browse the [files](https://huggingface.co/spaces/Alphatin/MetaSwarm/tree/main) directly.
 
 ## Contents
 
@@ -38,6 +41,7 @@ This repository follows the **updated author version**, which is not separately 
 
 ## News
 
+- **[2026.11.16]** Artifact page released on Hugging Face: [Space](https://huggingface.co/spaces/Alphatin/MetaSwarm) and [files](https://huggingface.co/spaces/Alphatin/MetaSwarm/tree/main), mirroring the paper, poster, slides, `CITATION.cff` and this code tree.
 - **[2026.09.19]** Code released: the five-stage development pipeline and the submitted five-fold ensemble.
 - **[2026.03]** Paper published in the Proceedings of the 2nd Workshop on NLP for Languages Using Arabic Script (AbjadNLP 2026), Rabat, Morocco, co-located with EACL 2026 (pages 144-148).
 
